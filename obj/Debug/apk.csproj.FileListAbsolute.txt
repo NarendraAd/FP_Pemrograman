@@ -1,0 +1,114 @@
+D:\PemrogLanjut\New folder\apk\bin\Debug\apk.exe.config
+D:\PemrogLanjut\New folder\apk\bin\Debug\apk.exe
+D:\PemrogLanjut\New folder\apk\bin\Debug\apk.pdb
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.csproj.AssemblyReference.cache
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.Form1.resources
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.Properties.Resources.resources
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.csproj.GenerateResource.cache
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.exe
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.pdb
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.Form2.resources
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.Form3.resources
+D:\PemrogLanjut\New folder\apk\bin\Debug\BouncyCastle.Crypto.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\Google.Protobuf.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Compression.LZ4.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Hash.xxHash.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\MySql.Data.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Buffers.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Memory.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Numerics.Vectors.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\ZstdNet.dll
+D:\PemrogLanjut\New folder\apk\bin\Debug\BouncyCastle.Crypto.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\Google.Protobuf.pdb
+D:\PemrogLanjut\New folder\apk\bin\Debug\Google.Protobuf.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Compression.LZ4.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\K4os.Hash.xxHash.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\MySql.Data.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Buffers.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Memory.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Numerics.Vectors.xml
+D:\PemrogLanjut\New folder\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PemrogLanjut\New folder\apk\obj\Debug\apk.Form4.resources
+C:\apk\bin\Debug\apk.exe.config
+C:\apk\bin\Debug\apk.exe
+C:\apk\bin\Debug\apk.pdb
+C:\apk\bin\Debug\BouncyCastle.Crypto.dll
+C:\apk\bin\Debug\Google.Protobuf.dll
+C:\apk\bin\Debug\K4os.Compression.LZ4.dll
+C:\apk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\apk\bin\Debug\K4os.Hash.xxHash.dll
+C:\apk\bin\Debug\MySql.Data.dll
+C:\apk\bin\Debug\System.Buffers.dll
+C:\apk\bin\Debug\System.Memory.dll
+C:\apk\bin\Debug\System.Numerics.Vectors.dll
+C:\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\apk\bin\Debug\ZstdNet.dll
+C:\apk\bin\Debug\BouncyCastle.Crypto.xml
+C:\apk\bin\Debug\Google.Protobuf.pdb
+C:\apk\bin\Debug\Google.Protobuf.xml
+C:\apk\bin\Debug\K4os.Compression.LZ4.xml
+C:\apk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\apk\bin\Debug\K4os.Hash.xxHash.xml
+C:\apk\bin\Debug\MySql.Data.xml
+C:\apk\bin\Debug\System.Buffers.xml
+C:\apk\bin\Debug\System.Memory.xml
+C:\apk\bin\Debug\System.Numerics.Vectors.xml
+C:\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\apk\obj\Debug\apk.csproj.AssemblyReference.cache
+C:\apk\obj\Debug\apk.csproj.SuggestedBindingRedirects.cache
+C:\apk\obj\Debug\apk.Form1.resources
+C:\apk\obj\Debug\apk.Form2.resources
+C:\apk\obj\Debug\apk.Form3.resources
+C:\apk\obj\Debug\apk.Properties.Resources.resources
+C:\apk\obj\Debug\apk.csproj.GenerateResource.cache
+C:\apk\obj\Debug\apk.csproj.CoreCompileInputs.cache
+C:\apk\obj\Debug\apk.csproj.CopyComplete
+C:\apk\obj\Debug\apk.exe
+C:\apk\obj\Debug\apk.pdb
+D:\FP Pemrograman\apk\obj\Debug\apk.csproj.AssemblyReference.cache
+D:\FP Pemrograman\apk\obj\Debug\apk.csproj.SuggestedBindingRedirects.cache
+D:\FP Pemrograman\apk\obj\Debug\apk.Form1.resources
+D:\FP Pemrograman\apk\obj\Debug\apk.Form2.resources
+D:\FP Pemrograman\apk\obj\Debug\apk.Form3.resources
+D:\FP Pemrograman\apk\obj\Debug\apk.Properties.Resources.resources
+D:\FP Pemrograman\apk\obj\Debug\apk.csproj.GenerateResource.cache
+D:\FP Pemrograman\apk\obj\Debug\apk.csproj.CoreCompileInputs.cache
+D:\FP Pemrograman\apk\obj\Debug\apk.exe
+D:\FP Pemrograman\apk\obj\Debug\apk.pdb
+D:\FP Pemrograman\apk\bin\Debug\apk.exe.config
+D:\FP Pemrograman\apk\bin\Debug\apk.exe
+D:\FP Pemrograman\apk\bin\Debug\apk.pdb
+D:\FP Pemrograman\apk\bin\Debug\BouncyCastle.Crypto.dll
+D:\FP Pemrograman\apk\bin\Debug\EntityFramework.dll
+D:\FP Pemrograman\apk\bin\Debug\EntityFramework.SqlServer.dll
+D:\FP Pemrograman\apk\bin\Debug\Google.Protobuf.dll
+D:\FP Pemrograman\apk\bin\Debug\K4os.Compression.LZ4.dll
+D:\FP Pemrograman\apk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FP Pemrograman\apk\bin\Debug\K4os.Hash.xxHash.dll
+D:\FP Pemrograman\apk\bin\Debug\MySql.Data.dll
+D:\FP Pemrograman\apk\bin\Debug\System.Buffers.dll
+D:\FP Pemrograman\apk\bin\Debug\System.Memory.dll
+D:\FP Pemrograman\apk\bin\Debug\System.Numerics.Vectors.dll
+D:\FP Pemrograman\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FP Pemrograman\apk\bin\Debug\ZstdNet.dll
+D:\FP Pemrograman\apk\bin\Debug\BouncyCastle.Crypto.xml
+D:\FP Pemrograman\apk\bin\Debug\EntityFramework.xml
+D:\FP Pemrograman\apk\bin\Debug\EntityFramework.SqlServer.xml
+D:\FP Pemrograman\apk\bin\Debug\Google.Protobuf.pdb
+D:\FP Pemrograman\apk\bin\Debug\Google.Protobuf.xml
+D:\FP Pemrograman\apk\bin\Debug\K4os.Compression.LZ4.xml
+D:\FP Pemrograman\apk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\FP Pemrograman\apk\bin\Debug\K4os.Hash.xxHash.xml
+D:\FP Pemrograman\apk\bin\Debug\MySql.Data.xml
+D:\FP Pemrograman\apk\bin\Debug\System.Buffers.xml
+D:\FP Pemrograman\apk\bin\Debug\System.Memory.xml
+D:\FP Pemrograman\apk\bin\Debug\System.Numerics.Vectors.xml
+D:\FP Pemrograman\apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FP Pemrograman\apk\obj\Debug\apk.csproj.CopyComplete
+D:\FP Pemrograman\apk\obj\Debug\apk.Form4.resources
+D:\FP Pemrograman\apk\obj\Debug\apk.Form5.resources
